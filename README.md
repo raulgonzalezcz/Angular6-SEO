@@ -11,6 +11,11 @@ ng -v
 
 <img src="./images/configurationEnvironment.png" alt="Basic set up to work" align="middle" width="450">
 
+Build and try the app:
+```
+ng serve -o
+```
+
 ## Special Thanks
 This material was provided by Gary Simon at https://coursetro.com/posts/code/155/Angular-6-SEO-Tutorial-from-Scratch---It's-Super-Simple-Now!
 
